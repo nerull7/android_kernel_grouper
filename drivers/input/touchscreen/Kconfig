@@ -1,4 +1,4 @@
-#
+
 # Touchscreen driver configuration
 #
 menuconfig INPUT_TOUCHSCREEN
